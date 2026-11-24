@@ -4,3 +4,4 @@ Small learning notebooks built each day by a GitHub Actions workflow. The newest
 
 | Date | Package | What it shows | Ran |
 | --- | --- | --- | --- |
+| 2026-11-24 | symmetrix | symmetrix-accelerated-evaluation-of-equi | yes |
